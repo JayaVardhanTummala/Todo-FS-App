@@ -5,10 +5,14 @@ It includes all CRUD operations (Create, Read, Update, Delete) — with a clean 
 
 ---
 
-## 🚀 Tech Stack
-**Frontend:** React + Vite + Axios + FontAwesome  
-**Backend:** Node.js + Express.js + MongoDB + Mongoose  
-**Styling:** CSS + FontAwesome icons  
+## ⚙️ Tech Stack
+
+| Layer | Technologies Used |
+|-------|--------------------|
+| 🎨 **Frontend** | React.js, Axios, FontAwesome Icons |
+| 🧩 **Backend** | Node.js, Express.js |
+| 🗄️ **Database** | MongoDB (via Mongoose) |
+| ⚡ **Runtime** | Node + Vite Dev Server | 
 
 ---
 
