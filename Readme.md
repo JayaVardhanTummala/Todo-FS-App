@@ -43,18 +43,21 @@ It includes all CRUD operations (Create, Read, Update, Delete) — with a clean 
 ```bash
 cd Backend
 npm install
-npm run dev
+npm run dev 
+```
 Runs on → http://localhost:5000
 
 ### 🔹 Frontend
-
+``` bash
 cd Frontend
 npm install
 npm run dev
+```
 Runs on → http://localhost:5173
 
 
 ## Folder Structures - 
+```bash
 Backend/
 ├── models/
 │   └── schema.js           # Mongoose schema definition
@@ -75,7 +78,8 @@ Frontend/
 │   │   └── TodoInput.jsx
 │   └── App.jsx
 │
-└── package.json
+└── package.json 
+```
 
 ## 📸 Preview
 ![SS of the Application](ss.png)
@@ -84,5 +88,3 @@ Frontend/
 💪 Author
 
 JayaVardhan Tummala
-Just another dev grinding his way up the MERN stack 🧠⚡
-“Code. Break. Fix. Repeat.”
