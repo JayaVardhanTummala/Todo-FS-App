@@ -86,5 +86,5 @@ Frontend/
 
 
 💪 Author
-JayaVardhan Tummala
+JayaVardhan Tummala | 
 This project was built as a guided learning experience.
